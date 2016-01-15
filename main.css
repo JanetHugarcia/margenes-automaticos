@@ -1,0 +1,18 @@
+/* Escribe aqui tu CSS */
+.parte1{
+	width:200px;
+	height:180px;
+	border:10px solid #FDF733;
+	padding: 30px 40px 20px;
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+.parte2{
+	width:200px;
+	height:180px;
+	border:10px solid #FDF733;
+	padding: 30px 40px 20px ;
+	text-align: left;
+	margin:auto;
+}
